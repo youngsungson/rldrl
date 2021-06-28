@@ -45,3 +45,5 @@
     - [for와 while 루프](Chapter%2003/For%20and%20While%20Loops/homework.py)
     - [함수](Chapter%2003/Functions/homework.py)
     - [클래스와 객체](Chapter%2003/Classes/homework.py)
+
+https://static.packt-cdn.com/downloads/9781838645359_ColorImages.pdf
